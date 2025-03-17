@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Power, minerals, and industries</b>]]></text>
+<text><![CDATA[Win the jackpot! Rearrange the jumbled letters in the word. Type the correct word in the blank space. Pull the handle.]]></text>
+<text><![CDATA[<B>Submit</B>]]></text>
+<!-- Questions -->
+
+<Question><![CDATA[It means water.]]></Question>
+<Question><![CDATA[energy from the Sun]]></Question>
+<Question><![CDATA[to buy goods from another country]]></Question>
+<Question><![CDATA[power generated from cow dung]]></Question>
+<Question><![CDATA[a metallic mineral]]></Question>
+<Question><![CDATA[a wheel-like machine used in power generating plants]]></Question>
+<Question><![CDATA[a power plant which uses fuels like coal, gas, and oil]]></Question>
+<Question><![CDATA[another word for <B>atomic</B> power]]></Question>
+<Question><![CDATA[a very precious stone]]></Question>
+<Question><![CDATA[The largest iron and steel plant in Pakistan is in this city.]]></Question>
+
+
+
+
+<!-- Option -->
+
+<Option><![CDATA[Y]]></Option>
+<Option><![CDATA[D]]></Option>
+<Option><![CDATA[O]]></Option>
+<Option><![CDATA[H]]></Option>
+<Option><![CDATA[R]]></Option>
+
+<Option><![CDATA[L]]></Option>
+<Option><![CDATA[A]]></Option>
+<Option><![CDATA[S]]></Option>
+<Option><![CDATA[R]]></Option>
+<Option><![CDATA[O]]></Option>
+
+<Option><![CDATA[R]]></Option>
+<Option><![CDATA[O]]></Option>
+<Option><![CDATA[M]]></Option>
+<Option><![CDATA[I]]></Option>
+<Option><![CDATA[T]]></Option>
+<Option><![CDATA[P]]></Option>
+
+<Option><![CDATA[S]]></Option>
+<Option><![CDATA[G]]></Option>
+<Option><![CDATA[I]]></Option>
+<Option><![CDATA[B]]></Option>
+<Option><![CDATA[A]]></Option>
+<Option><![CDATA[O]]></Option>
+
+<Option><![CDATA[P]]></Option>
+<Option><![CDATA[E]]></Option>
+<Option><![CDATA[R]]></Option>
+<Option><![CDATA[O]]></Option>
+<Option><![CDATA[C]]></Option>
+<Option><![CDATA[P]]></Option>
+
+<Option><![CDATA[B]]></Option>
+<Option><![CDATA[I]]></Option>
+<Option><![CDATA[T]]></Option>
+<Option><![CDATA[N]]></Option>
+<Option><![CDATA[U]]></Option>
+<Option><![CDATA[R]]></Option>
+<Option><![CDATA[E]]></Option>
+
+<Option><![CDATA[L]]></Option>
+<Option><![CDATA[E]]></Option>
+<Option><![CDATA[R]]></Option>
+<Option><![CDATA[H]]></Option>
+<Option><![CDATA[T]]></Option>
+<Option><![CDATA[M]]></Option>
+<Option><![CDATA[A]]></Option>
+
+<Option><![CDATA[R]]></Option>
+<Option><![CDATA[U]]></Option>
+<Option><![CDATA[L]]></Option>
+<Option><![CDATA[E]]></Option>
+<Option><![CDATA[N]]></Option>
+<Option><![CDATA[C]]></Option>
+<Option><![CDATA[A]]></Option>
+
+<Option><![CDATA[M]]></Option>
+<Option><![CDATA[I]]></Option>
+<Option><![CDATA[D]]></Option>
+<Option><![CDATA[O]]></Option>
+<Option><![CDATA[N]]></Option>
+<Option><![CDATA[D]]></Option>
+<Option><![CDATA[A]]></Option>
+
+<Option><![CDATA[H]]></Option>
+<Option><![CDATA[A]]></Option>
+<Option><![CDATA[C]]></Option>
+<Option><![CDATA[A]]></Option>
+<Option><![CDATA[R]]></Option>
+<Option><![CDATA[I]]></Option>
+<Option><![CDATA[K]]></Option>
+
+
+
+<!-- Number -->
+
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[3]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+<number><![CDATA[7]]></number>
+<number><![CDATA[8]]></number>
+<number><![CDATA[9]]></number>
+<number><![CDATA[10]]></number>
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That's correct!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct. Please try again.]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+<mnj><![CDATA[<B>JACKPOT!</B>]]></mnj>
+
+</data>
+</framexml>

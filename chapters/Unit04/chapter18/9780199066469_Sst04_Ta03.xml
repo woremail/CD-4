@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>The arts</b>]]></text>
+<text><![CDATA[Type in the missing letters to complete the sentence. Then click 'Submit'.]]></text>
+<text><![CDATA[Submit]]></text>
+
+<!-- Questions -->
+
+<Question><![CDATA[The __________ dance is performed by male dancers carrying swords.]]></Question>
+<Question><![CDATA[<I>Bhangra</I> is a popular dance of the __________ province of Pakistan.]]></Question>
+<Question><![CDATA[The __________ is a folk dance of the Makranis of Balochistan.]]></Question>
+<Question><![CDATA[__________ is a dance accompanied by the clapping of hands and beating drums.]]></Question>
+<Question><![CDATA[The National Academy of Performing Arts is in __________.]]></Question>
+<Question><![CDATA[Chughtai and Sadequain are famous __________.]]></Question>
+<Question><![CDATA[Music which is produced by the human voice is called __________ music.]]></Question>
+<Question><![CDATA[__________ Iqbal is a famous Urdu poet.]]></Question>
+<Question><![CDATA[Shaukat __________ is a famous literary scholar of Pakistan.]]></Question>
+<Question><![CDATA[Many Muslim artists believe that __________ is the mother of all arts.]]></Question>
+
+<!-- Answer -->
+
+<Answer><![CDATA[Khattak]]></Answer>
+<Answer><![CDATA[Punjab]]></Answer>
+<Answer><![CDATA[leva>]]></Answer>
+<Answer><![CDATA[khawar]]></Answer>
+<Answer><![CDATA[Karachi]]></Answer>
+<Answer><![CDATA[artists]]></Answer>
+<Answer><![CDATA[vocal]]></Answer>
+<Answer><![CDATA[Allama]]></Answer>
+<Answer><![CDATA[Siddiqui]]></Answer>
+<Answer><![CDATA[calligraphy]]></Answer>
+
+<!-- Number -->
+
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[3]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+<number><![CDATA[7]]></number>
+<number><![CDATA[8]]></number>
+<number><![CDATA[9]]></number>
+<number><![CDATA[10]]></number>
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That's correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct! Try again.]]></feedback>
+<feedback><![CDATA[Oops! That's incorrect again.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+</data>
+</framexml>

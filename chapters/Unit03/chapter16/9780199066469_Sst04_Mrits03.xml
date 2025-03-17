@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Muslim rule in the subcontinent</b>]]></text>
+<text><![CDATA[Help the boy cross the river by completing the sentence. Choose the correct log floating on the water; otherwise the boat will sink!]]></text>
+
+<!-- Questions -->
+
+<Question><![CDATA[Prophet Muhammad <FONT SIZE="16" COLOR="">(PBUH)</FONT> was born in the year __________.]]></Question>
+<Question><![CDATA[Mohammad bin Qasim defeated Raja Dahir and conquered __________ in 712]]></Question>
+<Question><![CDATA[Sultan Mahmud, the ruler of __________, invaded the subcontinent from the north-west.]]></Question>
+<Question><![CDATA[Mohammad Ghori made __________ the capital of his kingdom.]]></Question>
+<Question><![CDATA[In 1398, Delhi was attacked and destroyed by the armies of __________, the Mongol warlord.]]></Question>
+<Question><![CDATA[Babur defeated Ibrahim Lodhi at Panipat in the year __________.]]></Question>
+<Question><![CDATA[Babur was succeeded by his son __________.]]></Question>
+<Question><![CDATA[Akbar was succeeded to the throne by his son __________.]]></Question>
+<Question><![CDATA[The Taj Mahal was built by __________.]]></Question>
+<Question><![CDATA[The Mughal Empire reached its greatest limits under __________.]]></Question>
+
+
+
+
+<!-- Option -->
+
+<Option><![CDATA[610]]></Option>
+<Option><![CDATA[570]]></Option>
+<Option><![CDATA[632]]></Option>
+<Option><![CDATA[570]]></Option>
+
+<Option><![CDATA[Arabia]]></Option>
+<Option><![CDATA[Iraq]]></Option>
+<Option><![CDATA[Sindh]]></Option>
+<Option><![CDATA[Delhi]]></Option>
+
+<Option><![CDATA[Iraq]]></Option>
+<Option><![CDATA[Arabia]]></Option>
+<Option><![CDATA[Multan]]></Option>
+<Option><![CDATA[Ghazni]]></Option>
+
+<Option><![CDATA[Karachi]]></Option>
+<Option><![CDATA[Delhi]]></Option>
+<Option><![CDATA[Lahore]]></Option>
+<Option><![CDATA[Ghazni]]></Option>
+
+<Option><![CDATA[Balban]]></Option>
+<Option><![CDATA[Iltutmish]]></Option>
+<Option><![CDATA[Babur]]></Option>
+<Option><![CDATA[Timur]]></Option>
+
+<Option><![CDATA[1526]]></Option>
+<Option><![CDATA[1426]]></Option>
+<Option><![CDATA[1626]]></Option>
+<Option><![CDATA[1556]]></Option>
+
+<Option><![CDATA[Akbar]]></Option>
+<Option><![CDATA[Humayun]]></Option>
+<Option><![CDATA[Jahangir]]></Option>
+<Option><![CDATA[Shah Jahan]]></Option>
+
+<Option><![CDATA[Humayun]]></Option>
+<Option><![CDATA[Jahangir]]></Option>
+<Option><![CDATA[Shah Jahan]]></Option>
+<Option><![CDATA[Aurangzeb]]></Option>
+
+<Option><![CDATA[Aurangzeb]]></Option>
+<Option><![CDATA[Jahangir]]></Option>
+<Option><![CDATA[Akbar]]></Option>
+<Option><![CDATA[Shah Jahan]]></Option>
+
+<Option><![CDATA[Akbar]]></Option>
+<Option><![CDATA[Aurangzeb]]></Option>
+<Option><![CDATA[Shah Jahan]]></Option>
+<Option><![CDATA[Jahangir]]></Option>
+
+
+
+
+
+<!-- Number -->
+
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[3]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+<number><![CDATA[7]]></number>
+<number><![CDATA[8]]></number>
+<number><![CDATA[9]]></number>
+<number><![CDATA[10]]></number>
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct! Try once more!]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too!]]></feedback>
+<feedback><![CDATA[Here is the correct answer]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[Wow! That was superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[GAME OVER!]]></feedback>
+
+</data>
+</framexml>

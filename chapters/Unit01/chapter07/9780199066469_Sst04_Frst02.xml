@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Forests</B>]]></text>
+<text><![CDATA[Forests are an important natural resource.]]></text>
+<text><![CDATA[Pakistan does not have great forest resources.]]></text>
+<text><![CDATA[Forest coverage is also reduced due to cutting down trees and grazing animals.]]></text>
+<text><![CDATA[Alpine forests]]></text>
+<text><![CDATA[Alpine forests are mostly found in Chitral, Dir, Swat, and Gilgit.]]></text>
+<text><![CDATA[Coniferous forests]]></text>
+<text><![CDATA[Fir, spruce, <I>deodar</I>, and <I>kail</I> are some of the trees found in coniferous forests.]]></text>
+<text><![CDATA[Dry forests.]]></text>
+<text><![CDATA[Thorn or Rakh forests]]></text>
+<text><![CDATA[Hardwood trees like acacia <I>(kikar)</I> and tamarisk are found in <I>rakh</I> forests.]]></text>
+<text><![CDATA[Mangrove forests are found along the coast in southern Pakistan and the delta area of the Indus.]]></text>
+<text><![CDATA[Mangroves protect the coastal region from erosion, tidal waves, and tsunamis.]]></text>
+<text><![CDATA[Riverine or Bela forests]]></text>
+<text><![CDATA[<I>Babul</I> and <I>shisham</I> are two types of trees found in the riverine forests.]]></text>
+<text><![CDATA[Plantations are man-made forests. These are started in areas where there is enough water.]]></text>
+<text><![CDATA[Eucalyptus, <I>shisham</I>, and <I>babul</I> trees are commonly grown on plantations.]]></text>
+<text><![CDATA[<b>Importance of forests</b>]]></text>
+<text><![CDATA[Green plants make oxygen which humans and animals need to breathe to stay alive.]]></text>
+<text><![CDATA[Trees provide us with flowers, fruits, nuts, leaves, and wood.]]></text>
+									 
+<text><![CDATA[Wood from trees and plants is used to make furniture, medicines, perfumes, paints, and resins.]]></text>
+
+
+
+
+
+
+
+<!-- Caption -->
+<text><![CDATA[Alpine forests in northern Pakistan]]></text>
+<text><![CDATA[Silver fir]]></text>
+<text><![CDATA[Juniper]]></text>
+<text><![CDATA[Birch]]></text>
+<text><![CDATA[lower mountains of the northern areas]]></text>
+<text><![CDATA[Potohar Plateau]]></text>
+<text><![CDATA[dry and infertile regions of balochistan]]></text>
+<text><![CDATA[Mangrove forests]]></text>
+<text><![CDATA[A plantation]]></text>
+
+
+<!-- Caption -->
+
+<option><![CDATA[dry forests]]></option>
+<option><![CDATA[Thorn <I>(Rakh)</I> forest]]></option>
+<option><![CDATA[Riverine <I>(bela)</I> forests]]></option>
+
+
+<head><![CDATA[Dry forests]]></head>
+<head><![CDATA[Riverine forests]]></head>
+
+
+
+</data>
+</framexml>

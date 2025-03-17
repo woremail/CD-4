@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Religion and languages</b>]]></text>
+<text><![CDATA[Look at the word grid and the words next to it. Find the words hidden in the grid. Click the letters to select and complete each word. Then click 'Submit'. If you select a wrong letter, click it again.]]></text>
+
+<!-- Questions -->
+
+<Question><![CDATA[P]]></Question>
+<Question><![CDATA[A]]></Question>
+<Question><![CDATA[B]]></Question>
+<Question><![CDATA[D]]></Question>
+<Question><![CDATA[O]]></Question>
+<Question><![CDATA[N]]></Question>
+<Question><![CDATA[G]]></Question>
+<Question><![CDATA[I]]></Question>
+<Question><![CDATA[S]]></Question>
+<Question><![CDATA[V]]></Question>
+<Question><![CDATA[U]]></Question>
+<Question><![CDATA[H]]></Question>
+<Question><![CDATA[R]]></Question>
+<Question><![CDATA[C]]></Question>
+<Question><![CDATA[G]]></Question>
+<Question><![CDATA[E]]></Question>
+<Question><![CDATA[T]]></Question>
+<Question><![CDATA[K]]></Question>
+<Question><![CDATA[Q]]></Question>
+<Question><![CDATA[L]]></Question>
+<Question><![CDATA[M]]></Question>
+<Question><![CDATA[J]]></Question>
+<Question><![CDATA[Z]]></Question>
+
+<!-- Option -->
+
+<Option><![CDATA[PARSEE]]></Option>
+<Option><![CDATA[ISLAM]]></Option>
+<Option><![CDATA[CULTURE]]></Option>
+<Option><![CDATA[PAINTING]]></Option>
+
+<Option><![CDATA[QURAN]]></Option>
+<Option><![CDATA[ALLAH]]></Option>
+<Option><![CDATA[HINDU]]></Option>
+<Option><![CDATA[SIKH]]></Option>
+
+<Option><![CDATA[CHRISTIAN]]></Option>
+<Option><![CDATA[JESUSAVESTA]]></Option>
+<Option><![CDATA[GITA]]></Option>
+<Option><![CDATA[CHURCH]]></Option>
+
+<Option><![CDATA[BUDDHA]]></Option>
+<Option><![CDATA[ZOROASTER]]></Option>
+<Option><![CDATA[URDU]]></Option>
+<Option><![CDATA[PASHTO]]></Option>
+
+<Option><![CDATA[NANAK]]></Option>
+
+<!-- Number -->
+
+<number><![CDATA[1.]]></number>
+<number><![CDATA[2.]]></number>
+<number><![CDATA[3.]]></number>
+<number><![CDATA[4.]]></number>
+<number><![CDATA[5.]]></number>
+<number><![CDATA[6.]]></number>
+<number><![CDATA[7.]]></number>
+<number><![CDATA[8.]]></number>
+<number><![CDATA[9.]]></number>
+<number><![CDATA[10.]]></number>
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct! Try again.]]></feedback>
+<feedback><![CDATA[Oops! That's incorrect again.]]></feedback>
+<feedback><![CDATA[This is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+
+<Submit><![CDATA[Submit]]></Submit>
+
+</data>
+</framexml>

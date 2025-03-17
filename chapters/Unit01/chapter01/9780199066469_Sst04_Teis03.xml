@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>The Earth in space</B>]]></text>
+<text><![CDATA[Help Asma crack the coconuts. Drag the labels below the correct places in the diagram.]]></text>
+
+<text><![CDATA[]]></text>
+<text><![CDATA[]]></text>
+<text><![CDATA[]]></text>
+<text><![CDATA[equator]]></text>
+<text><![CDATA[SUN]]></text>
+
+
+
+<option><![CDATA[Summer solstice]]></option>
+<option><![CDATA[Autumn equinox]]></option>
+<option><![CDATA[Winter solstice]]></option>
+<option><![CDATA[Spring equinox]]></option>
+<option><![CDATA[21 June]]></option>
+<option><![CDATA[23 September]]></option>
+<option><![CDATA[22 December]]></option>
+<option><![CDATA[21 March]]></option>
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That's correct!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct! Try again!]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+
+</data>
+</framexml>

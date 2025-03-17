@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Our past</b>]]></text>
+<text><![CDATA[Help the archaeologist travel through time. Click the correct answer.]]></text>
+
+<!-- Questions -->
+
+<Question><![CDATA[The Indus Valley Civilization started around __________.]]></Question>
+<Question><![CDATA[The Aryans came to the subcontinent from <BR>__________________.]]></Question>
+<Question><![CDATA[_____________ is a language that the Aryans brought to the subcontinent.]]></Question>
+<Question><![CDATA[_____________ was an important city of the Persian Empire.]]></Question>
+<Question><![CDATA[The Greeks under __________ defeated the Persians.]]></Question>
+<Question><![CDATA[The Mauryan king who fought the battle of Kalinga was __________.]]></Question>
+<Question><![CDATA[The most famous ruler of the Kushans was <BR>_________________.]]></Question>
+<Question><![CDATA[Harsha was the ruler of the __________ dynasty.]]></Question>
+<Question><![CDATA[The __________ were a savage Central Asian tribe who caused a lot of destruction wherever they went.]]></Question>
+<Question><![CDATA[Islam began to spread in the subcontinent after the arrival of __________________.]]></Question>
+
+
+
+
+<!-- Option -->
+
+<Option><![CDATA[1000 <FONT SIZE="15" COLOR="">BCE</FONT>]]></Option>
+<Option><![CDATA[2600 <FONT SIZE="15" COLOR="">BCE</FONT>]]></Option>
+<Option><![CDATA[1500 <FONT SIZE="15" COLOR="">BCE</FONT>]]></Option>
+<Option><![CDATA[2600 <FONT SIZE="15" COLOR="">CE</FONT>]]></Option>
+
+<Option><![CDATA[Eastern Africa]]></Option>
+<Option><![CDATA[Central America]]></Option>
+<Option><![CDATA[Central Asia]]></Option>
+<Option><![CDATA[Western Australia]]></Option>
+
+<Option><![CDATA[Arabic]]></Option>
+<Option><![CDATA[English]]></Option>
+<Option><![CDATA[Urdu]]></Option>
+<Option><![CDATA[Sanskrit]]></Option>
+
+<Option><![CDATA[Harappa]]></Option>
+<Option><![CDATA[Mohenjo Daro]]></Option>
+<Option><![CDATA[Taxila]]></Option>
+<Option><![CDATA[Mehrgarh]]></Option>
+
+<Option><![CDATA[Julius Caesar]]></Option>
+<Option><![CDATA[Alexander]]></Option>
+<Option><![CDATA[Ashoka]]></Option>
+<Option><![CDATA[Harsha]]></Option>
+
+<Option><![CDATA[Harsha]]></Option>
+<Option><![CDATA[Kanishka]]></Option>
+<Option><![CDATA[Alexander]]></Option>
+<Option><![CDATA[Ashoka]]></Option>
+
+<Option><![CDATA[Harsha]]></Option>
+<Option><![CDATA[Chandra Gupta]]></Option>
+<Option><![CDATA[Kanishka]]></Option>
+<Option><![CDATA[Mohammad bin Qasim]]></Option>
+
+<Option><![CDATA[Kushan]]></Option>
+<Option><![CDATA[Mauryan]]></Option>
+<Option><![CDATA[Parthian]]></Option>
+<Option><![CDATA[Nanda]]></Option>
+
+<Option><![CDATA[Huns]]></Option>
+<Option><![CDATA[Parthians]]></Option>
+<Option><![CDATA[Greeks]]></Option>
+<Option><![CDATA[Mauryans]]></Option>
+
+<Option><![CDATA[Mohammad Ghori]]></Option>
+<Option><![CDATA[Sultan Mahmud]]></Option>
+<Option><![CDATA[Mohammad bin Qasim]]></Option>
+<Option><![CDATA[Alexander the Great]]></Option>
+
+
+
+
+
+<!-- Number -->
+
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[3]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+<number><![CDATA[7]]></number>
+<number><![CDATA[8]]></number>
+<number><![CDATA[9]]></number>
+<number><![CDATA[10]]></number>
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[You got it!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct. Try again!]]></feedback>
+<feedback><![CDATA[Oops! That's incorrect again.]]></feedback>
+<feedback><![CDATA[This is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+</data>
+</framexml>

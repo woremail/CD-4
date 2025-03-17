@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>The Western Highlands and River Indus and its plains</B>]]></text>
+<text><![CDATA[Solve this crossword puzzle. Take help from the clues provided. Click 'Submit' after completing the puzzle.]]></text>
+
+
+<text><![CDATA[<B>Hints:</B>]]></text>
+<text><![CDATA[<B>Across:</B>]]></text>
+<text><![CDATA[<B>Down:</B>]]></text>
+
+<Submit><![CDATA[<B>Submit</B>]]></Submit>
+
+<!-- Across -->
+
+<Question><![CDATA[The most important river in Pakistan]]></Question>
+<Question><![CDATA[A city near Islamabad]]></Question>
+<Question><![CDATA[The lake near which lies the source of the Indus]]></Question>
+<Question><![CDATA[Pakistan's neighbour to the west]]></Question>
+<Question><![CDATA[Sea south of Pakistan]]></Question>
+<Question><![CDATA[The coast near Gwadar, Balochistan]]></Question>
+ 
+
+<!-- Down 6 -->
+
+<Question><![CDATA[Mount _______ Austen or K2]]></Question>
+<Question><![CDATA[A mountain range in Balochistan]]></Question>
+<Question><![CDATA[The second highest peak in Pakistan]]></Question>
+<Question><![CDATA[A mountain range that forms the northern and north-western borders of Pakistan]]></Question>
+<Question><![CDATA[A peak in the Hindu Kush range]]></Question>
+<Question><![CDATA[Mountain range in the extreme north of Pakistan]]></Question>
+<Question><![CDATA[This plateau lies between the Jhelum and Indus rivers]]></Question>
+<Question><![CDATA[Hills that form a barrier between Pakistan and Afghanistan]]></Question>
+<Question><![CDATA[A pass that links Peshawar with Kabul]]></Question>
+
+
+<ques><![CDATA[1]]></ques>
+<ques><![CDATA[2]]></ques>
+<ques><![CDATA[3]]></ques>
+<ques><![CDATA[4]]></ques>
+<ques><![CDATA[5]]></ques>
+<ques><![CDATA[6]]></ques>
+<ques><![CDATA[7]]></ques>
+<ques><![CDATA[8]]></ques>
+<ques><![CDATA[9]]></ques>
+<ques><![CDATA[10]]></ques>
+<ques><![CDATA[11]]></ques>
+<ques><![CDATA[12]]></ques>
+<ques><![CDATA[13]]></ques>
+<ques><![CDATA[14]]></ques>
+<ques><![CDATA[15]]></ques>
+
+
+
+<number><![CDATA[1.]]></number>
+<number><![CDATA[2.]]></number>
+<number><![CDATA[3.]]></number>
+<number><![CDATA[4.]]></number>
+<number><![CDATA[5.]]></number>
+<number><![CDATA[6.]]></number>
+<number><![CDATA[7.]]></number>
+<number><![CDATA[8.]]></number>
+<number><![CDATA[9.]]></number>
+<number><![CDATA[10.]]></number>
+<number><![CDATA[11.]]></number>
+<number><![CDATA[12.]]></number>
+<number><![CDATA[13.]]></number>
+<number><![CDATA[14.]]></number>
+<number><![CDATA[15.]]></number>
+
+
+
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That's correct!]]></feedback>
+<feedback><![CDATA[Oh! no! That's not correct. Try again!]]></feedback>
+<feedback><![CDATA[Oops! That is wrong too.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[Congratulations! You are simply marvellous!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+</data>
+</framexml>

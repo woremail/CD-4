@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>The soil and agriculture</b>]]></text>
+<text><![CDATA[Help the farmer reach the storehouse. Click the correct picture.]]></text>
+<text><![CDATA[<B>Start</B>]]></text>
+
+<!-- Questions -->
+
+<Question><![CDATA[Which picture shows sugar cane cultivation?]]></Question>
+<Question><![CDATA[Which picture shows terrace cultivation?]]></Question>
+<Question><![CDATA[Which of these is a cash crop?]]></Question>
+<Question><![CDATA[Which of these is a food crop?]]></Question>
+<Question><![CDATA[Identify the picture that shows livestock farming.]]></Question>
+<Question><![CDATA[Which picture shows an orchard?]]></Question>
+<Question><![CDATA[Which picture shows a desert?]]></Question>
+<Question><![CDATA[Which picture shows a glacier?]]></Question>
+<Question><![CDATA[Which picture shows rice cultivation?]]></Question>
+<Question><![CDATA[Identify a poultry farm in these pictures.]]></Question>
+
+<!-- Option -->
+
+<Option><![CDATA[wheat]]></Option>
+<Option><![CDATA[cotton]]></Option>
+<Option><![CDATA[rice]]></Option>
+<Option><![CDATA[millet]]></Option>
+<Option><![CDATA[maize]]></Option>
+<Option><![CDATA[tobacco]]></Option>
+<Option><![CDATA[sugar cane]]></Option>
+<Option><![CDATA[jute]]></Option>
+
+<!-- Number -->
+
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[3]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+<number><![CDATA[7]]></number>
+<number><![CDATA[8]]></number>
+<number><![CDATA[9]]></number>
+<number><![CDATA[10]]></number>
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct. Try again.]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[This is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[Time Out]]></feedback>
+
+
+
+<time><![CDATA[<B>Timer:</B>]]></time>
+
+
+</data>
+</framexml>

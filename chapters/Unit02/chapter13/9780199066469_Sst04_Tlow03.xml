@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>The law</b>]]></text>
+<text><![CDATA[Help the tightrope walker reach the other end of the rope. Type the correct answer in the given space. Click 'Submit'.]]></text>
+<text><![CDATA[<B>Submit</B>]]></text>
+<text><![CDATA[Click and drag]]></text>
+
+<!-- Questions -->
+
+<Question><![CDATA[In Pakistan, the __________ makes the rules for the country.]]></Question>
+<Question><![CDATA[The police can __________ people who break the law.]]></Question>
+<Question><![CDATA[People can go to a __________ for justice.]]></Question>
+<Question><![CDATA[A __________ or a magistrate is a person in the court who sees to it that the guilty are punished.]]></Question>
+<Question><![CDATA[Courts in districts that handle small matters<br>are called __________ courts.]]></Question>
+<Question><![CDATA[The __________ Court is the highest court in Pakistan.]]></Question>
+<Question><![CDATA[The people who bring a case to the court are part of the __________.]]></Question>
+<Question><![CDATA[A lawyer who speaks for the accused person is called a __________ lawyer.]]></Question>
+<Question><![CDATA[A __________ is a person who has seen a crime being committed.]]></Question>
+<Question><![CDATA[When there is more than one judge in a case, then it is called a trial by __________.]]></Question>
+
+
+
+
+<!-- Answer -->
+
+<Answer><![CDATA[government]]></Answer>
+<Answer><![CDATA[arrest]]></Answer>
+<Answer><![CDATA[court]]></Answer>
+<Answer><![CDATA[judge]]></Answer>
+<Answer><![CDATA[sessions]]></Answer>
+<Answer><![CDATA[Supreme]]></Answer>
+<Answer><![CDATA[prosecution]]></Answer>
+<Answer><![CDATA[defence]]></Answer>
+<Answer><![CDATA[witness]]></Answer>
+<Answer><![CDATA[tribunal]]></Answer>
+
+
+
+<!-- Number -->
+
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[3]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+<number><![CDATA[7]]></number>
+<number><![CDATA[8]]></number>
+<number><![CDATA[9]]></number>
+<number><![CDATA[10]]></number>
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[You got it!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct. Try again.]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[This is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+</data>
+</framexml>

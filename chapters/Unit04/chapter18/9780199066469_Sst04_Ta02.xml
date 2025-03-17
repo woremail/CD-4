@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>The arts</B>]]></text>
+<text><![CDATA[Dance, music, art, and literature are an important part of the culture of any country.]]></text>
+<text><![CDATA[Music]]></text>
+<text><![CDATA[Music which is played on instruments is called <I>instrumental music.</I>]]></text>
+<text><![CDATA[Music which is produced by human voice is called <I>vocal music.</I>]]></text>
+<text><![CDATA[Wind instruments]]></text>
+<text><![CDATA[String instruments]]></text>
+<text><![CDATA[Percussion instruments]]></text>
+<text><![CDATA[Many verses by our poets have been set to music and sung as <I>ghazal,</I> <I>geet,</I> and <I>qawwali.</I>]]></text>
+<text><![CDATA[Painting]]></text>
+<text><![CDATA[Architecture]]></text>
+<text><![CDATA[Handicrafts]]></text>
+<text><![CDATA[Jewellery]]></text>
+<text><![CDATA[Truck art]]></text>
+<text><![CDATA[Architecture is the craft of designing and constructing buildings.]]></text>
+<text><![CDATA[Churches are built with long hall and a tower.]]></text>
+<text><![CDATA[Mosques are designed with domes, minarets and courtyards.]]></text>
+<text><![CDATA[Hindu temples are richly decorated.]]></text>
+<text><![CDATA[Literature]]></text>
+
+<!-- Caption -->
+
+<text><![CDATA[<i>Luddi</i>]]></text>
+<text><![CDATA[<i>Bhangra</i>]]></text>
+<text><![CDATA[<i>Khattak</i>]]></text>
+<text><![CDATA[<i>Leva</i> is a folk dance of the Makranis of Balochistan.]]></text>
+<text><![CDATA[<i>Jhoomar</i>]]></text>
+<text><![CDATA[The tribes in the Kalash valley near Chitral have their own folk dances.]]></text>
+<text><![CDATA[Flute]]></text>
+<text><![CDATA[Shehnai]]></text>
+<text><![CDATA[Sitar]]></text>
+<text><![CDATA[Sarangi]]></text>
+<text><![CDATA[Ektara]]></text>
+<text><![CDATA[Tabla]]></text>
+<text><![CDATA[Dhol]]></text>
+<text><![CDATA[Pakhawaj]]></text>
+<text><![CDATA[Allama Iqbal]]></text>
+<text><![CDATA[Faiz Ahmed Faiz]]></text>
+<text><![CDATA[Imtiaz Ali Taj]]></text>
+<text><![CDATA[Shaukat Siddiqui]]></text>
+
+<text><![CDATA[<i>Luddi</i> and <i>bhangra</i> are two popular dances of the Punjab region.]]></text>
+<text><![CDATA[<i>Khattak</i> is a dance performed by male dancers with swords.]]></text>
+<text><![CDATA[<i>Leva</i> is a folk dance of the Makranis of Balochistan.]]></text>
+<text><![CDATA[The <i>jhoomar</i> is a popular dance in Sindh.]]></text>
+<text><![CDATA[The tribes in the Kalash valley near Chitral have their own folk dances.]]></text>
+
+<text><![CDATA[<I>Leva</I>]]></text>
+<text><![CDATA[<I>Kalash folk dance</I>]]></text>
+
+<option><![CDATA[A church]]></option>
+<option><![CDATA[A mosque]]></option>
+<option><![CDATA[A Hindu temple]]></option>
+
+</data>
+</framexml>

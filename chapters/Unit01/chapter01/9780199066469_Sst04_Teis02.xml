@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>The Earth in space</B>]]></text>
+<text><![CDATA[The Earth is spherical in shape and flattened at the North Pole and South Pole.]]></text>
+<text><![CDATA[The Earth is tilted at 23.5° on its axis.]]></text>
+<text><![CDATA[The <I>axis</I> is an imaginary line running from the North Pole to the South Pole through the centre of the Earth.]]></text>
+<text><![CDATA[The Earth rotates, from west to east, on its axis.]]></text>
+<text><![CDATA[The Earth takes 24 hours to complete one rotation.]]></text>
+<text><![CDATA[The <I>equator</I> is an imaginary line that runs all the way around the middle of the Earth.]]></text>
+<text><![CDATA[The equator divides the Earth into two equal halves&#8212;the northern hemisphere and the southern hemisphere.]]></text>
+<text><![CDATA[The movement of the Earth around the Sun is called its <I>revolution</I>. The Earth takes one year to revolve around the Sun.]]></text>
+<text><![CDATA[Causes of seasons:]]></text>
+<text><![CDATA[Revolution of the Earth around the Sun]]></text>
+<text><![CDATA[Tilt of the Earth's axis]]></text>
+<text><![CDATA[The Moon is the Earth's natural satellite. It revolves around the Earth.]]></text>
+<text><![CDATA[21 June is the longest day of the year and is known as the <I>summer solstice.</I>]]></text>
+<text><![CDATA[22 December is the shortest day of the year and known as the <I>winter solstice.</I>]]></text>
+<text><![CDATA[On 21 March, the day and night are of equal length. It is known as the <I>spring equinox</I>.]]></text>
+<text><![CDATA[On 23 September, once again the day and night become equal in length. It is known as the <I>autumn equinox</I>.]]></text>
+
+<text><![CDATA[North Pole]]></text>
+<text><![CDATA[equator]]></text>
+<text><![CDATA[direction of spin]]></text>
+<text><![CDATA[South Pole]]></text>
+
+</data>
+</framexml>

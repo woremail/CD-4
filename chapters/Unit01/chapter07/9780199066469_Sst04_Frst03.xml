@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Forests</b>]]></text>
+<text><![CDATA[Help the owl identify its nest. Choose the correct option. Remember you only have 10 seconds to answer the question.]]></text>
+<text><![CDATA[Start]]></text>
+<text><![CDATA[Timer]]></text>
+
+<!-- Questions -->
+<Question><![CDATA[__________ forests are found in the mountains of the northern areas of Pakistan.]]></Question>
+<Question><![CDATA[__________ forests are also known as <I>rakh</I> forests.]]></Question>
+<Question><![CDATA[__________ forests are found in regions close to rivers.]]></Question>
+<Question><![CDATA[__________ provide shelter and source of food for marine life.]]></Question>
+<Question><![CDATA[Which of these forests are called man-made forests?]]></Question>
+<Question><![CDATA[Which tree is most commonly grown on plantations in Pakistan?]]></Question>
+<Question><![CDATA[Which among these trees is commonly found in thorn forests?]]></Question>
+<Question><![CDATA[Which type of forest protects coastal regions from erosion?]]></Question>
+<Question><![CDATA[The leaves, bark, and sap of the __________ tree is used to make medicines.]]></Question>
+<Question><![CDATA[The hardwood of the __________ tree is used to make railway sleepers.]]></Question>
+
+<!-- Option -->
+<Option><![CDATA[Thorn]]></Option>
+<Option><![CDATA[Dry]]></Option>
+<Option><![CDATA[Mangrove]]></Option>
+<Option><![CDATA[Alpine]]></Option>
+
+<Option><![CDATA[Coniferous]]></Option>
+<Option><![CDATA[Dry]]></Option>
+<Option><![CDATA[Thorn]]></Option>
+<Option><![CDATA[Mangrove]]></Option>
+
+<Option><![CDATA[Dry]]></Option>
+<Option><![CDATA[Rakh]]></Option>
+<Option><![CDATA[Coniferous]]></Option>
+<Option><![CDATA[<i>Bela</i>]]></Option>
+
+<Option><![CDATA[Plantations]]></Option>
+<Option><![CDATA[Mangroves]]></Option>
+<Option><![CDATA[Deserts]]></Option>
+<Option><![CDATA[Mountains]]></Option>
+
+<Option><![CDATA[riverine]]></Option>
+<Option><![CDATA[plantations]]></Option>
+<Option><![CDATA[<I>rakh</I>]]></Option>
+<Option><![CDATA[<I>bela</I>]]></Option>
+
+<Option><![CDATA[<I>deodar</I>]]></Option>
+<Option><![CDATA[eucalyptus]]></Option>
+<Option><![CDATA[spruce]]></Option>
+<Option><![CDATA[mangrove]]></Option>
+
+<Option><![CDATA[chestnut]]></Option>
+<Option><![CDATA[willow]]></Option>
+<Option><![CDATA[juniper]]></Option>
+<Option><![CDATA[acacia]]></Option>
+
+<Option><![CDATA[alpine]]></Option>
+<Option><![CDATA[mangrove]]></Option>
+<Option><![CDATA[riverine]]></Option>
+<Option><![CDATA[coniferous]]></Option>
+
+<Option><![CDATA[<I>babul</I>]]></Option>
+<Option><![CDATA[<I>deodar</I>]]></Option>
+<Option><![CDATA[<I>neem</I>]]></Option>
+<Option><![CDATA[<I>shisham</I>]]></Option>
+
+<Option><![CDATA[<I>neem</I>]]></Option>
+<Option><![CDATA[<I>kikar</I>]]></Option>
+<Option><![CDATA[<I>kail</I>]]></Option>
+<Option><![CDATA[<I>deodar</I>]]></Option>
+
+
+
+<!-- Number -->
+
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[3]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+<number><![CDATA[7]]></number>
+<number><![CDATA[8]]></number>
+<number><![CDATA[9]]></number>
+<number><![CDATA[10]]></number>
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That's correct!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct. Try again!]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too!]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[Time Out]]></feedback>
+
+</data>
+</framexml>

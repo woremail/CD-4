@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<pop><![CDATA[Hi there! I am Bunny, the rabbit!]]></pop>
+<pop><![CDATA[Today, I am here to take you through an interesting]]></pop>
+<pop><![CDATA[journey where we will talk about geography, history,]]></pop>
+<pop><![CDATA[our culture, and our society.]]></pop>
+<pop><![CDATA[To proceed, just click any of the units on the screen!]]></pop>
+<pop><![CDATA[Now click any one of the lessons.]]></pop>
+<pop><![CDATA[Click on any one of the units.]]></pop>
+<pop><![CDATA[Now click the lessons.]]></pop>
+
+
+<unit>
+	<Num><![CDATA[01]]></Num>
+	<name><![CDATA[Unit 1 : Geography]]></name>
+	<main><![CDATA[chapters/Unit01/chapter01/9780199066469_Sst04_Teis01.swf]]></main>
+	<main><![CDATA[chapters/Unit01/chapter03/9780199066469_Sst04_Oc01.swf]]></main>
+	<main><![CDATA[chapters/Unit01/chapter04/9780199066469_Sst04_Twhrip01.swf]]></main>
+	<main><![CDATA[chapters/Unit01/chapter06/9780199066469_Sst04_Saa01.swf]]></main>
+	<main><![CDATA[chapters/Unit01/chapter07/9780199066469_Sst04_Frst01.swf]]></main>
+	<main><![CDATA[chapters/Unit01/chapter09/9780199066469_Sst04_Pmai01.swf]]></main>
+	<lesson>
+		<name><![CDATA[Lesson 1 : The Earth in space]]></name>
+		<path><![CDATA[chapters/Unit01/chapter01/9780199066469_Sst04_Teis02.swf]]></path>
+		<path><![CDATA[chapters/Unit01/chapter01/9780199066469_Sst04_Teis03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 3 : Our country]]></name>
+		<path><![CDATA[chapters/Unit01/chapter03/9780199066469_Sst04_Oc02.swf]]></path>
+		<path><![CDATA[chapters/Unit01/chapter03/9780199066469_Sst04_Oc03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lessons 4-5 : The Western Highlands]]></name>
+		<name1><![CDATA[and River Indus and its plains]]></name1>
+		<path><![CDATA[chapters/Unit01/chapter04/9780199066469_Sst04_Twhrip02.swf]]></path>
+		<path><![CDATA[chapters/Unit01/chapter04/9780199066469_Sst04_Twhrip03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 6 : The soil and agriculture]]></name>
+		<path><![CDATA[chapters/Unit01/chapter06/9780199066469_Sst04_Saa02.swf]]></path>
+		<path><![CDATA[chapters/Unit01/chapter06/9780199066469_Sst04_Saa03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 7 : Forests]]></name>
+		<path><![CDATA[chapters/Unit01/chapter07/9780199066469_Sst04_Frst02.swf]]></path>
+		<path><![CDATA[chapters/Unit01/chapter07/9780199066469_Sst04_Frst03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 9 : Power, minerals, and]]></name>
+		<name1><![CDATA[industries]]></name1>
+		<path><![CDATA[chapters/Unit01/chapter09/9780199066469_Sst04_Pmai02.swf]]></path>
+		<path><![CDATA[chapters/Unit01/chapter09/9780199066469_Sst04_Pmai03.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+	<Num><![CDATA[02]]></Num>
+	<name><![CDATA[Unit 2 : Citizenship]]></name>
+	<main><![CDATA[chapters/Unit02/chapter12/9780199066452_Sst03_srvcs01.swf]]></main>
+	<main><![CDATA[chapters/Unit02/chapter13/9780199066452_Sst03_trnspt01.swf]]></main>
+	<lesson>
+		<name><![CDATA[Lesson 12 : The government]]></name>
+		<path><![CDATA[chapters/Unit02/chapter12/9780199066469_Sst04_Tgovt02.swf]]></path>
+		<path><![CDATA[chapters/Unit02/chapter12/9780199066469_Sst04_Tgovt03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 13 : The law]]></name>
+		<path><![CDATA[chapters/Unit02/chapter13/9780199066469_Sst04_Tlow02.swf]]></path>
+		<path><![CDATA[chapters/Unit02/chapter13/9780199066469_Sst04_Tlow03.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+	<Num><![CDATA[03]]></Num>
+	<name><![CDATA[Unit 3 : Our History]]></name>
+	<main><![CDATA[chapters/Unit03/chapter15/9780199066469_Sst04_Opast01.swf]]></main>
+	<main><![CDATA[chapters/Unit03/chapter16/9780199066469_Sst04_Mrits01.swf]]></main>
+	<lesson>
+		<name><![CDATA[Lesson 15 : Our past]]></name>
+		<path><![CDATA[chapters/Unit03/chapter15/9780199066469_Sst04_Opast02.swf]]></path>
+		<path><![CDATA[chapters/Unit03/chapter15/9780199066469_Sst04_Opast03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 16 : Muslim rule in the]]></name>
+		<name1><![CDATA[subcontinent]]></name1>
+		<path><![CDATA[chapters/Unit03/chapter16/9780199066469_Sst04_Mrits02.swf]]></path>
+		<path><![CDATA[chapters/Unit03/chapter16/9780199066469_Sst04_Mrits03.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+	<Num><![CDATA[04]]></Num>
+	<name><![CDATA[Unit 4 : Culture and Society]]></name>
+	<main><![CDATA[chapters/Unit04/chapter17/9780199066469_Sst04_Ral01.swf]]></main>
+	<main><![CDATA[chapters/Unit04/chapter18/9780199066469_Sst04_Ta01.swf]]></main>
+	<lesson>
+		<name><![CDATA[Lesson 17 : Religion and languages]]></name>
+		<path><![CDATA[chapters/Unit04/chapter17/9780199066469_Sst04_Ral02.swf]]></path>
+		<path><![CDATA[chapters/Unit04/chapter17/9780199066469_Sst04_Ral03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 18 : The arts]]></name>
+		<path><![CDATA[chapters/Unit04/chapter18/9780199066469_Sst04_Ta02.swf]]></path>
+		<path><![CDATA[chapters/Unit04/chapter18/9780199066469_Sst04_Ta03.swf]]></path>
+	</lesson>
+</unit>
+
+<mainFrame>
+	<text><![CDATA[Unit 1 : Geography]]></text>
+	<text><![CDATA[Unit 2 : Citizenship]]></text>
+	<text><![CDATA[Unit 3 : Our History]]></text>
+	<text><![CDATA[Unit 4 : Culture and Society]]></text>
+</mainFrame>
+</data>
+</framexml>
